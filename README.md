@@ -12,7 +12,7 @@ felix-antoine.paradis@codeboxx.biz
 nadya.fortier@codeboxx.biz
 
 
-facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.be
+video facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.be
 
 my API url : https://rocketapi.azurewebsites.net/api/
 
