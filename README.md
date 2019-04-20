@@ -16,5 +16,5 @@ video facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.
 
 my API url : https://rocketapi.azurewebsites.net/api/
 
-Get method : /elevator   == for see all elevators
+Get method : /elevator   == for  all elevators
 put method : /elevator/id/Moving   == for change status 
