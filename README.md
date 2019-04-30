@@ -13,9 +13,10 @@ i had to delete my repo this morning because i messed up my code, so i have one 
 | Nadya Fortier  | nadya.fortier@codeboxx.biz   |
 
 
-video facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.be
 
 Get method : /elevator   == for  all elevators
 put method : /elevator/id/Moving   == for change status 
 
 my API url : https://rocketapi.azurewebsites.net/api/
+
+video facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.be
