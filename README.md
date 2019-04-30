@@ -2,19 +2,20 @@
 
 i had to delete my repo this morning because i messed up my code, so i have one commit inside 
 
-USERS :
-philippe.bouillon@codeboxx.biz
-mathieu.lefrançois@codeboxx.biz
-mathieu.houde@codeboxx.biz
-remi.gagnon@codeboxx.biz
-serge.savoie@codeboxx.biz
-felix-antoine.paradis@codeboxx.biz
-nadya.fortier@codeboxx.biz
+| Users  | Emails                    |
+| ------------- | ------------------------------ |
+| Philippe Bouillon     | philippe.bouillon@codeboxx.biz     |
+| Mathieu LeFrançois  | mathieu.lefrançois@codeboxx.biz   |
+| Mathieu Houde | mathieu.houde@codeboxx.biz |
+| Remi Gagnon | remi.gagnon@codeboxx.biz  |
+| Serge Savoie | serge.savoie@codeboxx.biz  |
+| Felix-Antoine | felix-antoine.paradis@codeboxx.biz|
+| Nadya Fortier  | nadya.fortier@codeboxx.biz   |
 
 
 video facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.be
 
-my API url : https://rocketapi.azurewebsites.net/api/
-
 Get method : /elevator   == for  all elevators
 put method : /elevator/id/Moving   == for change status 
+
+my API url : https://rocketapi.azurewebsites.net/api/
