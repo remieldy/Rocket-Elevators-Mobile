@@ -14,8 +14,8 @@ i had to delete my repo this morning because i messed up my code, so i have one 
 
 
 
-- Get method : /elevator   == for  all elevators
-- Put method : /elevator/id/Moving   == for change status 
+- Get method : /elevator   === for  all elevators
+- Put method : /elevator/id/Moving   === for change status 
 
 #### API url : https://rocketapi.azurewebsites.net/api/
 
