@@ -1,16 +1,16 @@
+![](http://rocketelevator.ca/assets/R2-3c6296bf2343b849b947f8ccfce0de61dd34ba7f9e2a23a53d0a743bc4604e3c.png)
 
 
-i had to delete my repo this morning because i messed up my code, so i have one commit inside 
+| Users  | Emails  | Passwords |
+| :------------ |:---------------:| -----:|
+| Philippe Bouillon | philippe.bouillon@codeboxx.biz | 123456 |
+| Mathieu LeFrançois | mathieu.lefrançois@codeboxx.biz | 123456 |
+| Mathieu Houd | mathieu.houde@codeboxx.biz | 123456 |
+| Remi Gagnon | remi.gagnon@codeboxx.biz | 123456 |
+| Serge Savoie | serge.savoie@codeboxx.biz | 123456 |
+| Felix-Antoine | felix-antoine.paradis@codeboxx.biz | 123456 |
+| Nadya Fortier | nadya.fortier@codeboxx.biz | 123456 |
 
-| Users  | Emails                    |
-| ------------- | ------------------------------ |
-| Philippe Bouillon     | philippe.bouillon@codeboxx.biz     |
-| Mathieu LeFrançois  | mathieu.lefrançois@codeboxx.biz   |
-| Mathieu Houde | mathieu.houde@codeboxx.biz |
-| Remi Gagnon | remi.gagnon@codeboxx.biz  |
-| Serge Savoie | serge.savoie@codeboxx.biz  |
-| Felix-Antoine | felix-antoine.paradis@codeboxx.biz|
-| Nadya Fortier  | nadya.fortier@codeboxx.biz   |
 
 
 
@@ -19,4 +19,4 @@ i had to delete my repo this morning because i messed up my code, so i have one 
 
 #### API url : https://rocketapi.azurewebsites.net/api/
 
-video facebook link : https://www.youtube.com/watch?v=Jxr2vkRcFeI&feature=youtu.be
+
